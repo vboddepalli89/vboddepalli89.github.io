@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "Professional CV for Venkata Naresh Boddepalli, PhD Candidate at Iowa State University.",
+          title: "cv",
+          description: "Download or view my full academic CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
