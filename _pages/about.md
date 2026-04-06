@@ -2,91 +2,68 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.agron.iastate.edu/">Department of Agronomy</a>. Iowa State University.
+subtitle: >
+  PhD Candidate, <a href="https://www.agron.iastate.edu/">Department of Agronomy</a>, Iowa State University &nbsp;|&nbsp;
+  Plant Breeder &nbsp;|&nbsp; Legume Genomics & AI-Assisted Phenomics
 
 profile:
   align: right
-  image: naresh_headshot.jpg # We just confirmed this is the right filename to use
+  image: naresh_headshot.jpg
   image_circular: false
-  address: >
-    <p>Department of Agronomy</p>
-    <p>Iowa State University</p>
-    <p>Ames, IA 50011</p>
+  more_info: >
+    <p>Ames, Iowa, USA</p>
+    <p><a href="mailto:naresh.horti@gmail.com">naresh.horti@gmail.com</a></p>
+    <p>515-715-3950</p>
 
-news: true 
-selected_papers: true 
-social: true 
+selected_papers: false
+social: true
+announcements:
+  enabled: false
+latest_posts:
+  enabled: false
 ---
 
-# Biography
+I am a plant breeder and PhD candidate at Iowa State University (expected December 2026), 
+with approximately 12 years of international experience in legume crop improvement across 
+South Asia and the USA. My research sits at the intersection of classical plant breeding, 
+genome-wide association studies (GWAS), high-throughput phenotyping, and machine learning — 
+with the goal of accelerating genetic gain in mungbean (*Vigna radiata* L.) and related legume crops.
 
-PhD Candidate at **Iowa State University** (expected Dec 2026), with ~12 years of international experience in legume breeding across South Asia and the USA. I work at the intersection of classical plant breeding, GWAS, high-throughput phenotyping, and machine learning to accelerate genetic gain in mungbean and related crops.
-
-
-## 🔬 Research Focus
-
-- **Genomics-assisted breeding** — GWAS, genomic prediction, molecular marker development
-- **AI-enabled phenotyping** — Automated pod/seed trait extraction, UAV-based field imaging (FAA-licensed pilot)
-- **Legume crop improvement** — Mungbean, urdbean, vegetable soybean, cowpea
-- **Mutation breeding** — Gamma ray & fast neutron mutagenesis for novel genetic variation
-- **Multi-environment trials** — Breeding pipeline management across the USA, India, Myanmar, Bangladesh
-
----
-
-## 📂 Featured Repositories
-
-### 🫛 [Image-Based Pod Phenotyping](https://github.com/vboddepalli89/Image-based-pod-phenotyping)
-R scripts and supplementary materials for:
-> **"Image-based high-throughput phenotyping enables genetic analyses of pod morphological traits in mung bean"**
-> *G3: Genes|Genomes|Genetics* — Conditionally Accepted (2026)
-
-### 🌱 [Integrative Genomics & Deep Learning — Seed Traits](https://github.com/vboddepalli89/Integrative-Genomics-and-Deep-Learning-Based-Phenotyping-Reveal-the-Genetic-Architecture-of-Seed-Tra)
-R scripts and supplementary materials for:
-> **"Integrative genomics and deep learning-based phenotyping reveal the genetic architecture of seed traits in mungbean"**
-> *The Plant Genome* — Under Review (2026)
+Prior to joining ISU, I spent nearly nine years as a **Scientific Officer at the World Vegetable 
+Center (AVRDC)**, ICRISAT Campus, Hyderabad, India, where I led legume breeding and seed 
+production programs across South and Central Asia. I managed multi-location field trials, 
+built cross-institutional research networks, trained researchers from 10 countries, and 
+co-authored grant proposals securing over USD 1 million in international research funding 
+(ACIAR, Australia) and approximately USD 480K from the Government of India (RKVY).
 
 ---
 
-## 📄 Selected Publications
+## Research Focus
 
-| Year | Title | Journal | Status |
-|------|-------|---------|--------|
-| 2026 | Image-based HTP enables genetic analyses of pod traits in mungbean | *G3: Genes\|Genomes\|Genetics* | ✅ Conditionally Accepted |
-| 2026 | Integrative genomics & deep learning reveal genetic architecture of seed traits | *The Plant Genome* | 🔄 Under Review |
-| 2025 | Defining growth stages of mungbean using the BBCH Scale | *Agronomy Journal* | 🔄 Under Review |
-| 2025 | Demographic history & transcontinental genotype-phenotype-environment map of mungbean | *Nature Genetics* | 🔄 Under Review |
-| 2026 | Neural 3D reconstruction & VR visualization of row crops | *Smart Agricultural Technology* | ✅ Published |
-| 2024 | Genetics, genomics, and breeding of black gram | *Frontiers in Plant Science* | ✅ Published |
-| 2023 | Global Status of Vegetable Soybean | *Plants* | ✅ Published |
-
-📚 Full publication list: [ORCID 0009-0008-0216-9156](https://orcid.org/0009-0008-0216-9156)
+- **Genomics-assisted breeding** — GWAS, genomic prediction, and molecular marker development for legume crops
+- **AI-enabled high-throughput phenotyping** — Automated pod and seed trait extraction using image-based pipelines; UAV-based field imaging (FAA-licensed remote pilot)
+- **Legume crop improvement** — Mungbean, urdbean, vegetable soybean, and cowpea
+- **Mutation breeding** — Gamma ray and fast neutron mutagenesis to generate novel genetic variation
+- **Multi-environment trials** — Breeding pipeline management across the USA, India, Myanmar, and Bangladesh
 
 ---
 
-## 🏆 Recent Highlights
+## Recent Highlights
 
-- 🏅 **NAPB Borlaug Scholar 2026** — National Association of Plant Breeders
-- 🚁 **FAA-Licensed Drone Pilot** — UAV-based field phenotyping
-- 🌍 **Mungbean Messenger** — Recognized by World Vegetable Center
-- 💰 **Grants secured** — Co-authored proposals securing ~USD 1M (ACIAR) and ~USD 480K (RKVY, Govt. of India)
-- 🎓 **President**, 13th Raymond F. Baker Plant Breeding Symposium, ISU (2025–2026)
-
----
-
-## 🛠️ Tools & Skills
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-`GWAS` `Genomic Selection` `HTP` `Molecular Markers` `RNA-seq` `UAV Imaging` `Mutation Breeding` `Multi-location Trials` `Breeding Pipeline Management` `KDDart`
+- **NAPB Borlaug Scholar 2026** — National Association of Plant Breeders
+- **Bayer Graduate Student Travel Award 2025**
+- **FAA Part 107 Licensed Drone Pilot** — active certification for UAV field operations
+- Recognized as **"Mungbean Messenger"** by the World Vegetable Center
+- **President**, 13th Raymond F. Baker Plant Breeding Symposium, Iowa State University (2025–2026)
+- Co-authored grants securing **~USD 1M** (ACIAR, 2 phases) and **~USD 480K** (RKVY, Govt. of India)
+- **18 peer-reviewed publications** including papers in *G3: Genes\|Genomes\|Genetics*, *The Plant Genome*, *Nature Genetics* (under review), *Frontiers in Plant Science*, and *Plants*
 
 ---
 
-## 📬 Connect
+## News
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/boddepalli89)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0216-9156)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:naresh.horti@gmail.com)
+**April 2026** — Manuscript conditionally accepted in *G3: Genes\|Genomes\|Genetics*: "Image-based high-throughput phenotyping enables genetic analyses of pod morphological traits in mung bean."
 
-📍 Ames, Iowa, USA
+**January 2026** — Presented at the Plant and Animal Genome Conference (PAG), San Diego, CA.
+
+**May 2025** — Student speaker at the 2025 Loomis Symposium, Iowa State University.
