@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: Naresh_CV.pdf
-description: Professional CV for Venkata Naresh Boddepalli, PhD Candidate at Iowa State University.
+description: Download or view my full academic CV.
 ---
