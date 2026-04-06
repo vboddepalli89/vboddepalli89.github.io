@@ -6,7 +6,7 @@ subtitle: <a href="https://www.agron.iastate.edu/">Department of Agronomy</a>. I
 
 profile:
   align: right
-  image: prof_pic.jpg # We just confirmed this is the right filename to use
+  image: naresh_headshot.jpg # We just confirmed this is the right filename to use
   image_circular: false
   address: >
     <p>Department of Agronomy</p>
