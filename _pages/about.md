@@ -6,9 +6,9 @@ subtitle: <a href="https://www.agron.iastate.edu/">Department of Agronomy</a>. I
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg # We just confirmed this is the right filename to use
   image_circular: false
-  more_info: >
+  address: >
     <p>Department of Agronomy</p>
     <p>Iowa State University</p>
     <p>Ames, IA 50011</p>
@@ -36,3 +36,13 @@ PhD Candidate at **Iowa State University** (expected Dec 2026), with ~12 years o
 - 🚁 **FAA-Licensed Drone Pilot** — UAV-based field phenotyping.
 - 🌍 **Mungbean Messenger** — Recognized by World Vegetable Center.
 - 🎓 **President**, 13th Raymond F. Baker Plant Breeding Symposium, ISU (2025–2026).
+
+---
+
+## 📚 Selected Publications
+
+| Publication | Title & Authors | Status | Year |
+|-------------|----------------|--------|------|
+| *G3: Genes, Genomes, Genetics* | Integrating UAV-RGB Phenomics and Functional Genomics for Mungbean Improvement | Manuscript | 2026 |
+| *The Plant Genome* | Dissecting Seed Protein and Anthracnose Resistance in Mungbean | Manuscript | 2026 |
+| *Plant Disease* | First Report of Mungbean Anthracnose Caused by Colletotrichum truncatum in Bangladesh. *[doi:10.1094/PDIS-04-20-0718-PDN]* | [Link](https://doi.org/10.1094/PDIS-04-20-0718-PDN) | 2021 |
