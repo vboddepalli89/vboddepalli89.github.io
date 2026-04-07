@@ -9,7 +9,7 @@ subtitle: >
 profile:
   align: right
   image: naresh_headshot.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Ames, Iowa, USA</p>
     <p><a href="mailto:naresh.horti@gmail.com">naresh.horti@gmail.com</a></p>
@@ -18,7 +18,9 @@ profile:
 selected_papers: false
 social: true
 announcements:
-  enabled: false
+  enabled: true
+  scrollable: true
+  limit: 5
 latest_posts:
   enabled: false
 ---
