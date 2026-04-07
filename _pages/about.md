@@ -8,14 +8,14 @@ subtitle: >
 
 profile:
   align: right
-  image: naresh_headshot.jpg
-  image_circular: true
+  image: prof_pic.jpg
+  image_circular: false
   more_info: >
-    <p>Ames, Iowa, USA</p>
-    <p><a href="mailto:naresh.horti@gmail.com">naresh.horti@gmail.com</a></p>
-    <p>515-715-3950</p>
+    <p>Department of Agronomy</p>
+    <p>Iowa State University</p>
+    <p>Ames, IA 50011</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 announcements:
   enabled: true
