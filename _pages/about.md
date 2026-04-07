@@ -61,6 +61,7 @@ co-authored grant proposals securing over USD 1 million in international researc
 ---
 
 ## News
+**April 2026** — Featured in the [ISU Raymond F. Baker Center for Plant Breeding Graduate Student Spotlight](https://www.plantbreeding.iastate.edu/news/2026/graduate-student-spotlight-venkata-naresh-boddepalli) — recognized for PhD research in mungbean genomics and phenomics, and for serving as President and Co-chair of the 13th R.F. Baker Plant Breeding Symposium.
 
 **April 2026** — Manuscript conditionally accepted in *G3: Genes\|Genomes\|Genetics*: "Image-based high-throughput phenotyping enables genetic analyses of pod morphological traits in mung bean."
 
